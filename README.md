@@ -10,7 +10,7 @@ This project analyzes global retail sales data (2010–2011) to identify key rev
 
 ## Tools Used
 - Tableau
-- SQL (basic data exploration)
+- SQL (data querying and analysis)
 - Excel (data cleaning)
 
 ## Dashboard
