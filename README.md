@@ -14,7 +14,7 @@ This project analyzes global retail sales data (2010–2011) to identify key rev
 - Excel (data cleaning)
 
 ## Dashboard
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Project Structure
 - data/ → raw dataset  
